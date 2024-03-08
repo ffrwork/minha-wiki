@@ -1,0 +1,3 @@
+[submodule "minha-wiki"]
+	path = minha-wiki
+	url = https://github.com/ffrwork/minha-wiki.git
